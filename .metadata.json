@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cvcrand",
+    "oncran": true
+  },
+  {
+    "package": "geeCRT",
+    "oncran": true
+  }
+]
